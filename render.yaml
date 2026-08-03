@@ -1,0 +1,15 @@
+# Render Blueprint — static marketing site, no build step.
+services:
+  - type: web
+    name: contractor-ai-toolkit
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
+    headers:
+      - path: /*
+        name: X-Frame-Options
+        value: SAMEORIGIN
+    routes:
+      - type: rewrite
+        source: /articles
+        destination: /articles/
