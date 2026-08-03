@@ -13,4 +13,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://contractor-ai-toolkit.onrender.com/sitemap.xml
+Sitemap: https://www.thecontractoraitoolbox.com/sitemap.xml
