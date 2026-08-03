@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://[yourdomain]/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://[yourdomain]/articles/how-to-write-a-construction-change-order.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://[yourdomain]/articles/how-to-price-a-construction-job-with-ai.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://[yourdomain]/articles/construction-bid-follow-up-examples.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://[yourdomain]/articles/how-to-do-a-construction-takeoff.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://[yourdomain]/articles/free-construction-proposal-template.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://[yourdomain]/articles/how-to-get-on-a-general-contractor-bid-list.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://[yourdomain]/articles/best-ai-tools-for-contractors.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://contractor-ai-toolkit.onrender.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://contractor-ai-toolkit.onrender.com/articles/how-to-write-a-construction-change-order.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://contractor-ai-toolkit.onrender.com/articles/how-to-price-a-construction-job-with-ai.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://contractor-ai-toolkit.onrender.com/articles/construction-bid-follow-up-examples.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://contractor-ai-toolkit.onrender.com/articles/how-to-do-a-construction-takeoff.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://contractor-ai-toolkit.onrender.com/articles/free-construction-proposal-template.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://contractor-ai-toolkit.onrender.com/articles/how-to-get-on-a-general-contractor-bid-list.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://contractor-ai-toolkit.onrender.com/articles/best-ai-tools-for-contractors.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
